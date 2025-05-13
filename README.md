@@ -1,2 +1,5 @@
-Giriş Sayfası Loign etme (alanlar boş olunaca bilgi mesajı alıyorsunuz)
-![login giriş button](https://github.com/user-attachments/assets/7269078a-c5cd-4995-b5f6-d71129087678)
+![login giriş button](https://github.com/user-attachments/assets/a2c71c09-92d7-4109-b063-5360fdeeccb1)
+![kiralama ana sayfa](https://github.com/user-attachments/assets/189b2990-c0f7-4a37-b90a-8f527f799e2d)
+![kira eklenmiş hali boş](https://github.com/user-attachments/assets/48bd0c4d-3cbd-4535-8118-403bf9689581)
+![kira eklendi sayfa](https://github.com/user-attachments/assets/cc9c0f60-7cae-4544-b149-a1dca1ae8688)
+![kira silme](https://github.com/user-attachments/assets/ec2a472c-4ee7-42f0-a503-dddc62f1554c)
