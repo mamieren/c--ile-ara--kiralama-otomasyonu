@@ -13,3 +13,6 @@
                               Kira silme bölümü 
 ![kira silme (1)](https://github.com/user-attachments/assets/dd914d06-373d-47e4-a7e5-6d28ed061dc6)
 
+Uygulammı yaparken tasarımını düşündüm kendi bilgilerimle yapmaya çalıştım zorlandığım yerlerde sql bağlantısı gibi uygulamalardan destek alarak yaptım ve 
+amatörce bir uygulama çıkardım
+
