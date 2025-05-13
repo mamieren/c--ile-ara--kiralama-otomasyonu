@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammet Eren\\source\\repos\\arabakiralama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74C9DA94-9EF2-4449-8893-6B9828E96AF8}|arabakiralama\\arabakiralama.csproj|c:\\users\\muhammet eren\\source\\repos\\arabakiralama\\arabakiralama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C9DA94-9EF2-4449-8893-6B9828E96AF8}|arabakiralama\\arabakiralama.csproj|solutionrelative:arabakiralama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C9DA94-9EF2-4449-8893-6B9828E96AF8}|arabakiralama\\arabakiralama.csproj|C:\\Users\\Muhammet Eren\\source\\repos\\arabakiralama\\arabakiralama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74C9DA94-9EF2-4449-8893-6B9828E96AF8}|arabakiralama\\arabakiralama.csproj|solutionrelative:arabakiralama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C9DA94-9EF2-4449-8893-6B9828E96AF8}|arabakiralama\\arabakiralama.csproj|C:\\Users\\Muhammet Eren\\source\\repos\\arabakiralama\\arabakiralama\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74C9DA94-9EF2-4449-8893-6B9828E96AF8}|arabakiralama\\arabakiralama.csproj|solutionrelative:arabakiralama\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C9DA94-9EF2-4449-8893-6B9828E96AF8}|arabakiralama\\arabakiralama.csproj|c:\\users\\muhammet eren\\source\\repos\\arabakiralama\\arabakiralama\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C9DA94-9EF2-4449-8893-6B9828E96AF8}|arabakiralama\\arabakiralama.csproj|solutionrelative:arabakiralama\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C9DA94-9EF2-4449-8893-6B9828E96AF8}|arabakiralama\\arabakiralama.csproj|c:\\users\\muhammet eren\\source\\repos\\arabakiralama\\arabakiralama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C9DA94-9EF2-4449-8893-6B9828E96AF8}|arabakiralama\\arabakiralama.csproj|solutionrelative:arabakiralama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Muhammet Eren\\source\\repos\\arabakiralama\\arabakiralama\\Form1.cs",
+              "RelativeDocumentMoniker": "arabakiralama\\Form1.cs",
+              "ToolTip": "C:\\Users\\Muhammet Eren\\source\\repos\\arabakiralama\\arabakiralama\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "arabakiralama\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:15:02.332Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammet Eren\\source\\repos\\arabakiralama\\arabakiralama\\Program.cs",
+              "RelativeDocumentMoniker": "arabakiralama\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammet Eren\\source\\repos\\arabakiralama\\arabakiralama\\Program.cs",
+              "RelativeToolTip": "arabakiralama\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:03:04.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammet Eren\\source\\repos\\arabakiralama\\arabakiralama\\LoginForm.cs",
+              "RelativeDocumentMoniker": "arabakiralama\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Muhammet Eren\\source\\repos\\arabakiralama\\arabakiralama\\LoginForm.cs",
+              "RelativeToolTip": "arabakiralama\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:52:06.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammet Eren\\source\\repos\\arabakiralama\\arabakiralama\\Form1.cs",
+              "RelativeDocumentMoniker": "arabakiralama\\Form1.cs",
+              "ToolTip": "C:\\Users\\Muhammet Eren\\source\\repos\\arabakiralama\\arabakiralama\\Form1.cs",
+              "RelativeToolTip": "arabakiralama\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAASwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:38:19.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Muhammet Eren\\source\\repos\\arabakiralama\\arabakiralama\\LoginForm.cs",
+              "RelativeDocumentMoniker": "arabakiralama\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Muhammet Eren\\source\\repos\\arabakiralama\\arabakiralama\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "arabakiralama\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:47:10.197Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
