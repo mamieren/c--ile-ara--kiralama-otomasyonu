@@ -3,3 +3,4 @@
 ![kira eklenmiş hali boş](https://github.com/user-attachments/assets/48bd0c4d-3cbd-4535-8118-403bf9689581)
 ![kira eklendi sayfa](https://github.com/user-attachments/assets/cc9c0f60-7cae-4544-b149-a1dca1ae8688)
 ![kira silme](https://github.com/user-attachments/assets/ec2a472c-4ee7-42f0-a503-dddc62f1554c)
+![kira eklendi sayfa](https://github.com/user-attachments/assets/32bf5897-984b-44b7-999f-98db6a850ea3)
